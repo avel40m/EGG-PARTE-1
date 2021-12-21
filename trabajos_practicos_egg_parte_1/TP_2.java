@@ -13,9 +13,9 @@ public class TP_2 {
         Scanner leer = new Scanner(System.in);
         int n1,n2;
         
-        System.out.println("Ingrese el primer número:");
+        System.out.println("Ingrese el número del primer valor:");
         n1 = leer.nextInt();
-        System.out.println("Ingrese el segundo número:");
+        System.out.println("Ingrese el segundo número del primer valor:");
         n2 = leer.nextInt();
         
         System.out.println("La suma es igual a: " + (n1 + n2));
